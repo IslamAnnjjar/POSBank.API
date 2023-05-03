@@ -1,0 +1,38 @@
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Infrastructure\bin\Debug\net6.0\ElectronicsShop.Infrastructure.deps.json
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Infrastructure\bin\Debug\net6.0\ElectronicsShop.Infrastructure.runtimeconfig.json
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Infrastructure\bin\Debug\net6.0\ElectronicsShop.Infrastructure.dll
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Infrastructure\bin\Debug\net6.0\ElectronicsShop.Infrastructure.pdb
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Infrastructure\bin\Debug\net6.0\ElectronicsShop.Application.dll
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Infrastructure\bin\Debug\net6.0\ElectronicsShop.Domain.dll
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Infrastructure\bin\Debug\net6.0\ElectronicsShop.Application.pdb
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Infrastructure\bin\Debug\net6.0\ElectronicsShop.Domain.pdb
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Infrastructure\obj\Debug\net6.0\ElectronicsShop.Infrastructure.csproj.AssemblyReference.cache
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Infrastructure\obj\Debug\net6.0\ElectronicsShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Infrastructure\obj\Debug\net6.0\ElectronicsShop.Infrastructure.AssemblyInfoInputs.cache
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Infrastructure\obj\Debug\net6.0\ElectronicsShop.Infrastructure.AssemblyInfo.cs
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Infrastructure\obj\Debug\net6.0\ElectronicsShop.Infrastructure.csproj.CoreCompileInputs.cache
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Infrastructure\obj\Debug\net6.0\ElectronicsShop.Infrastructure.csproj.CopyComplete
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Infrastructure\obj\Debug\net6.0\ElectronicsShop.Infrastructure.dll
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Infrastructure\obj\Debug\net6.0\refint\ElectronicsShop.Infrastructure.dll
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Infrastructure\obj\Debug\net6.0\ElectronicsShop.Infrastructure.pdb
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Infrastructure\obj\Debug\net6.0\ElectronicsShop.Infrastructure.genruntimeconfig.cache
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Infrastructure\obj\Debug\net6.0\ref\ElectronicsShop.Infrastructure.dll
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Infrastructure\bin\Debug\net6.0\ElectronicsShop.Infrastructure.deps.json
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Infrastructure\bin\Debug\net6.0\ElectronicsShop.Infrastructure.runtimeconfig.json
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Infrastructure\bin\Debug\net6.0\ElectronicsShop.Infrastructure.dll
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Infrastructure\bin\Debug\net6.0\ElectronicsShop.Infrastructure.pdb
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Infrastructure\bin\Debug\net6.0\ElectronicsShop.Application.dll
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Infrastructure\bin\Debug\net6.0\ElectronicsShop.Domain.dll
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Infrastructure\bin\Debug\net6.0\ElectronicsShop.Application.pdb
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Infrastructure\bin\Debug\net6.0\ElectronicsShop.Domain.pdb
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Infrastructure\obj\Debug\net6.0\ElectronicsShop.Infrastructure.csproj.AssemblyReference.cache
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Infrastructure\obj\Debug\net6.0\ElectronicsShop.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Infrastructure\obj\Debug\net6.0\ElectronicsShop.Infrastructure.AssemblyInfoInputs.cache
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Infrastructure\obj\Debug\net6.0\ElectronicsShop.Infrastructure.AssemblyInfo.cs
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Infrastructure\obj\Debug\net6.0\ElectronicsShop.Infrastructure.csproj.CoreCompileInputs.cache
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Infrastructure\obj\Debug\net6.0\ElectronicsShop.Infrastructure.csproj.CopyComplete
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Infrastructure\obj\Debug\net6.0\ElectronicsShop.Infrastructure.dll
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Infrastructure\obj\Debug\net6.0\refint\ElectronicsShop.Infrastructure.dll
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Infrastructure\obj\Debug\net6.0\ElectronicsShop.Infrastructure.pdb
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Infrastructure\obj\Debug\net6.0\ElectronicsShop.Infrastructure.genruntimeconfig.cache
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Infrastructure\obj\Debug\net6.0\ref\ElectronicsShop.Infrastructure.dll

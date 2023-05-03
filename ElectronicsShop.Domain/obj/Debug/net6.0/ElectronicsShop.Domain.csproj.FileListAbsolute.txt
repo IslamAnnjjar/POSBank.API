@@ -1,0 +1,24 @@
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Domain\bin\Debug\net6.0\ElectronicsShop.Domain.deps.json
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Domain\bin\Debug\net6.0\ElectronicsShop.Domain.dll
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Domain\bin\Debug\net6.0\ElectronicsShop.Domain.pdb
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Domain\obj\Debug\net6.0\ElectronicsShop.Domain.csproj.AssemblyReference.cache
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Domain\obj\Debug\net6.0\ElectronicsShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Domain\obj\Debug\net6.0\ElectronicsShop.Domain.AssemblyInfoInputs.cache
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Domain\obj\Debug\net6.0\ElectronicsShop.Domain.AssemblyInfo.cs
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Domain\obj\Debug\net6.0\ElectronicsShop.Domain.csproj.CoreCompileInputs.cache
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Domain\obj\Debug\net6.0\ElectronicsShop.Domain.dll
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Domain\obj\Debug\net6.0\refint\ElectronicsShop.Domain.dll
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Domain\obj\Debug\net6.0\ElectronicsShop.Domain.pdb
+F:\ElectronicsShop\ElectronicsShop.BackEnd\ElectronicsShop.Domain\obj\Debug\net6.0\ref\ElectronicsShop.Domain.dll
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Domain\bin\Debug\net6.0\ElectronicsShop.Domain.deps.json
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Domain\bin\Debug\net6.0\ElectronicsShop.Domain.dll
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Domain\bin\Debug\net6.0\ElectronicsShop.Domain.pdb
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Domain\obj\Debug\net6.0\ElectronicsShop.Domain.csproj.AssemblyReference.cache
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Domain\obj\Debug\net6.0\ElectronicsShop.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Domain\obj\Debug\net6.0\ElectronicsShop.Domain.AssemblyInfoInputs.cache
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Domain\obj\Debug\net6.0\ElectronicsShop.Domain.AssemblyInfo.cs
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Domain\obj\Debug\net6.0\ElectronicsShop.Domain.csproj.CoreCompileInputs.cache
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Domain\obj\Debug\net6.0\ElectronicsShop.Domain.dll
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Domain\obj\Debug\net6.0\refint\ElectronicsShop.Domain.dll
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Domain\obj\Debug\net6.0\ElectronicsShop.Domain.pdb
+F:\ElectronicsShop\ElectronicsShop.BackEnd - Copy\ElectronicsShop.Domain\obj\Debug\net6.0\ref\ElectronicsShop.Domain.dll
